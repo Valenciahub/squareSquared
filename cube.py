@@ -38,38 +38,3 @@ innerLength = 4
 
 printSquares(outerLength, innerLength)
 
-# func square(_ a: Int) -> Void{
-#    let num = a - 1
-#
-#  var shape = [""]
-# for i in 0 ... num{
-#    shape.insert("*", at: i)
-
-#   }
-#   var i = 0; while i <= a{
-#      i += 1
-#     for i in 0...a-2{
-#        if shape[i].count <= a-2{
-#           if (i > 0 && i < num){
-#              shape[i].append(" ")
-#         }
-#    }
-#    }
-# }
-# for i in 1 ... num{
-#    shape[0].append(contentsOf: "*")
-#   shape[num].append(contentsOf: "*")
-#  if (i > 0 && i < num){
-#                shape[i].append("*")
-# }
-# }
-# for i in  0 ... num{
-#   print(shape[i])
-# }
-#    print(shape)
-# }
-
-
-# def betterPattern(a ,b):
-#	square = []
-#	for i in range()
