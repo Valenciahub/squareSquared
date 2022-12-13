@@ -33,7 +33,7 @@ def printSquares(outerLength, innerLength):
         line.clear()
 
 
-outerLength = 7
+outerLength = 15
 innerLength = 4
 
 printSquares(outerLength, innerLength)
